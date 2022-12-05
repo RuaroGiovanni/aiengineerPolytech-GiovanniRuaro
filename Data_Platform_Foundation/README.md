@@ -68,10 +68,10 @@ Wait until the notebook is marked with a green check and press `connect` button 
 ![jupyter](./images/jupyter.png)
 
 
-Then, clone the [https://github.com/A709509/aiengineercourse](https://github.com/A709509/aiengineercourse) repo
+Then, clone the [https://github.com/A709509/aiengineerPolytech](hhttps://github.com/A709509/aiengineerPolytech) repo
 
 ```bash
-git clone https://github.com/A709509/aiengineercourse
+git clone https://github.com/A709509/aiengineerPolytech
 ```
 
 At this point, you will begin to write some code to interract with the platform.
