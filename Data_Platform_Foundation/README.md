@@ -33,7 +33,7 @@ You will accès the platform UI with this URL [kubeflow.course.aiengineer.sandbo
 Clicking on the link you should be redirected to `iam.course.aiengineer.sandbox-atos.com`, where the identities are managed. Here you have to log in using : 
 
 ```
-username : firstname-lastname or mail
+username : firstname-lastname 
 mp : aiengineer-lastname
 ```
 
@@ -45,7 +45,7 @@ Once you logged in, you will see Kubeflow home. Upper left your profile space (g
 
 ### 1.1 Create a Notebook server
 
-Click on "Notebooks" menu and "create" button, name it `nameInitials-aiengineer-labs`, let the default ressources and in the "configuration" step, check the "allow accès to kubeflow pipeline" box.
+Click on "Notebooks" menu and "create" button, name it `nameInitials-aiengineer-labs  ex: Guillaume ETEVENARD --> ge-aiengineer-labs`, let the default ressources and in the "configuration" step, **check the "allow accès to kubeflow pipeline" box**.
 
 Launch it, wait until it's available and connect to it.
 
@@ -60,17 +60,22 @@ At this point, you will begin to write some code to interract with the platform.
 
 **begin with the notebook** [0_data_get_analyse_and_ingest.ipynb](0_data_get_analyse_and_ingest.ipynb)
 
-**For this notebook 0 you might need :**
+**For this notebook 0 you will need :**
 
 - [https://min.io/docs/minio/linux/developers/python/API.html](https://min.io/docs/minio/linux/developers/python/API.html)
 - [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 - [https://pandas.pydata.org/docs/reference/index.html](https://pandas.pydata.org/docs/reference/index.html)
 
+It will cover interactions between workspace and storage
+
 
 
 **Once it's done and you learnt how to store data to minio, continue with**[1_empower_analysis_with_db_and_viz.ipynb](1_empower_analysis_with_db_and_viz.ipynb)
 
-**For this notebook 1 you might need :**
+**For this notebook 1 you will need :**
 
  - [https://clickhouse.com/docs/en/sql-reference](https://clickhouse.com/docs/en/sql-reference)
+ - [https://www.postgresql.org/docs/current/index.html](https://www.postgresql.org/docs/current/index.html)
  - [https://kafka-python.readthedocs.io/](https://kafka-python.readthedocs.io/)
+
+ In this lab you will use different types of cold and hot storages. Also you will access an interface to vizualize data from those storages.
