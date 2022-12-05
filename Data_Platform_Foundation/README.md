@@ -45,9 +45,27 @@ Once you logged in, you will see Kubeflow home. Upper left your profile space (g
 
 ### 1.1 Create a Notebook server
 
-Click on "Notebooks" menu and "create" button, name it `nameInitials-aiengineer-labs  ex: Guillaume ETEVENARD --> ge-aiengineer-labs`, let the default ressources and in the "configuration" step, **check the "allow accès to kubeflow pipeline" box**.
+Click on `Notebooks` menu and `New Notebook` button.
 
-Launch it, wait until it's available and connect to it.
+Name it`nameInitials-aiengineer-labs`  
+
+```ex: John Doe --> jd-aiengineer-labs```
+
+![resources](./images/resources.png)
+
+Set the CPU to `0.5` and the RAM to `1`
+
+![config](./images/config.png)
+
+In the "configuration" step, **check the "allow accès to kubeflow pipeline" box**. Let the default values for the rest of the form.
+
+Click on `Launch` at the bottom.
+
+![ready](./images/ready.png)
+
+Wait until the notebook is marked with a green check and press `connect` button to open Jupyter Lab.
+
+![jupyter](./images/jupyter.png)
 
 
 Then, clone the [https://github.com/A709509/aiengineercourse](https://github.com/A709509/aiengineercourse) repo
