@@ -53,7 +53,7 @@ Name it`nameInitials-aiengineer-labs`
 
 ![resources](./images/resources.png)
 
-Set the CPU to `0.5` and the RAM to `1`
+Set the CPU to `0.1` and the RAM to `1`
 
 ![config](./images/config.png)
 
