@@ -28,7 +28,7 @@ which is called **Atos Codex Data Platform - Atos CDP**
 
 ### 1.0 Access Kubeflow UI
 
-You will accès the platform UI with this URL [kubeflow.course.aiengineer.sandbox-atos.com](kubeflow.course.aiengineer.sandbox-atos.com). You will access it thru a personal profile `firstname-lastname`.
+You will access the platform UI with this URL [kubeflow.course.aiengineer.sandbox-atos.com](kubeflow.course.aiengineer.sandbox-atos.com). You will access it thru a personal profile `firstname-lastname`.
 
 Clicking on the link you should be redirected to `iam.course.aiengineer.sandbox-atos.com`, where the identities are managed. Here you have to log in using : 
 
