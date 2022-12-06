@@ -34,7 +34,7 @@ Clicking on the link you should be redirected to `iam.course.aiengineer.sandbox-
 
 ```
 username : firstname-lastname 
-mp : aiengineer-lastname
+mp : firstname-lastname
 ```
 
 ![iam](./images/iam.png)
