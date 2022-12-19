@@ -3,6 +3,7 @@
 
 - [Data Platform Foundation](./Data_Platform_Foundation/)
 - [Data Pipeline](./Data_Pipeline/)
+- [Data Pipeline 2](./Data_Pipeline_2/)
 - [ML Governance](./ML_Governance/)
 - [ML Monitoring](./ML_Monitoring/)
 - [Serving](./Serving/)
