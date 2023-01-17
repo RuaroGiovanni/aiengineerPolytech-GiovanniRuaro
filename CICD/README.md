@@ -15,7 +15,7 @@ In this lab we will group and transform those low value actions so it can be aut
 This time we will use codeserver instead of jupyterlab
 
 - go to https://kubeflow.course.aiengineer.sandbox-atos.com/
-- Create a Notebook choosing docker image "1" : https://kubeflow.course.aiengineer.sandbox-atos.com/
+- Create a Notebook choosing docker image "1" : **dataplatform/infra/kubeflow/codeserver-python:v1.5.0**
 
 ![codeserverimage](./images/codeserverimage.png)
 
