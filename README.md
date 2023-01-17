@@ -5,8 +5,8 @@
 - [Data Pipeline](./Data_Pipeline/)
 - [Data Pipeline 2](./Data_Pipeline_2/)
 - [ML Governance](./ML_Governance/)
+- [CICD](./CICD/)
 - [ML Monitoring](./ML_Monitoring/)
-- [Serving](./Serving/)
 - [Wrap Up](./Wrap_up/)
 
 
