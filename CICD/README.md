@@ -69,7 +69,7 @@ Now we will clone the repo you just made, and start using it
 
 first, disable ssh :`git config --global http.sslverify false`
 
-Then, clone the repo using url,  : `git clone https://{username}:{access_token}@gitlab.course.polytech.sandbox-atos.com/tp5/xx-pipeline-builder.git`
+Then, clone the repo using url,  : `git clone https://{username}:{access_token}@gitlab.course.aiengineer.sandbox-atos.com/tp5/xx-pipeline-builder.git`
 
 
 
