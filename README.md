@@ -1,6 +1,8 @@
 # AI Engineer Course
 
 
+**FOR EXAM, GO TO [Exam_wine](./Exam_wine/)**
+
 - [Data Platform Foundation](./Data_Platform_Foundation/)
 - [Data Pipeline](./Data_Pipeline/)
 - [Data Pipeline 2](./Data_Pipeline_2/)
